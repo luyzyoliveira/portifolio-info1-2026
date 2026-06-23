@@ -1,1 +1,10 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
+
+        header{
+            background-color: blue;
+            background-clip: content-box;
+            color: white
+            padding: 10px;
+            border: 9px 
+
+        }
