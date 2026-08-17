@@ -12,7 +12,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
         nav {
           border: 10px solid rgb(37, 114, 185);
           background-color: rgb(255, 145, 0);
-          family: Arial, Helvetica, sans-serif;
+          font-family: Arial, Helvetica, sans-serif;
           padding: 10px;
           margin: 10px;
           background-clip: content-box;
@@ -50,8 +50,8 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
         }
         footer {
           border: 10px solid lightgrey
-          background-color: black;
-          color: white;
+          background-color black
+          color white;
           font-family: Arial, Helvetica, sans-serif;
           padding: 10px;
           margin: 10px;
