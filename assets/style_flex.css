@@ -12,6 +12,8 @@
   padding: 50px;
   text-align: center;  
   font-size: 30px;
+  display:flex;
+  flex-direction: row;
 }
 
 .quadrado_vermelho {
@@ -21,6 +23,8 @@
   padding: 50px;
   text-align: center;  
   font-size: 30px;
+  display:flex;
+  flex-direction: row;
 }
 
 .quadrado_amarelo {
@@ -30,4 +34,6 @@
   padding: 50px;
   text-align: center;  
   font-size: 30px;
+  display: flex;
+  flex-direction: row;
 }
